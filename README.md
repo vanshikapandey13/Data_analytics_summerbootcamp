@@ -2,9 +2,9 @@
 My complete learning journey from a Data Analytics Summer Bootcamp.
 # Data Analytics Summer Bootcamp
 
-Hi! 👋 I'm Vanshika Pandey and this repository contains everything I worked on during my *Data Analytics Summer Bootcamp*.
+Hi!  I'm Vanshika Pandey and this repository contains everything I worked on during my *Data Analytics Summer Bootcamp*.
 
-Throughout the bootcamp, I explored how to clean, analyze, and visualize real-world data using tools like *Python, Pandas, NumPy, Matplotlib, and **Excel*. Every week came with new challenges and hands-on tasks that helped me improve my analytical thinking and problem-solving skills.
+Throughout the bootcamp, I explored how to clean, analyze, and visualize real-world data using tools like *Python, Pandas, NumPy,and **Excel*. Every week came with new challenges and hands-on tasks that helped me improve my analytical thinking and problem-solving skills.
 
 ---
 
@@ -23,7 +23,6 @@ Throughout the bootcamp, I explored how to clean, analyze, and visualize real-wo
 
 - Python  
 - Pandas, NumPy  
-- Matplotlib, Seaborn  
 - Excel  
 - Jupyter Notebook  
 - Git & GitHub  
@@ -37,3 +36,6 @@ Throughout the bootcamp, I explored how to clean, analyze, and visualize real-wo
 - Creating insights using graphs and summaries  
 - Working with Excel functions and charts  
 - Structuring a project from scratch
+
+🚀 My Goal
+To become skilled in data analytics and use my knowledge to solve real-world problems — from business insights to global issues. This bootcamp is my first step into that journey.
